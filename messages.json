@@ -30,5 +30,9 @@
   {
     "role": "user",
     "content": "The deployment failed with the following error from Fly.io:\n\n[ERROR] Deployment failed for 'hst-ai-23573f90-d24f-4bb8-96c9-303ced1e9c3f'. Exit code: 1\n\nPlease fix the issue."
+  },
+  {
+    "role": "user",
+    "content": "The deployment failed with the following error from Fly.io:\n\n[ERROR] Deployment failed for 'hst-ai-23573f90-d24f-4bb8-96c9-303ced1e9c3f'. Exit code: 1\n\nPlease fix the issue."
   }
 ]
